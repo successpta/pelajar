@@ -1,0 +1,7 @@
+{
+  "name": "Syafiqah",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
